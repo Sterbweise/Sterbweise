@@ -1,7 +1,4 @@
-<ul>
-  <h2> Hi Everyone :wave: </h2>
 
-<p>I'm <a href="" rel="nofollow">Minami Xan</a>, a student in Cybersecurity.</p>
 </ul>
 <ul>
 <li>:computer: I’m currently working on differents project <i> (Dedicated Server, Css Themes Modifier, Hash Solver, etc..)</i>.</li>
