@@ -1,5 +1,8 @@
 
-</ul>
+ <h2> Hi Everyone :wave: </h2>
+
+<p>I'm <a href="" rel="nofollow">Minami Xan</a>, a student in Cybersecurity.</p>
+
 <ul>
 <li>:computer: I’m currently working on differents project <i> (Dedicated Server, Css Themes Modifier, Hash Solver, etc..)</i>.</li>
 <li>:busts_in_silhouette:I’m looking to collaborate on anything. I'm always interested in starting a new project.</li>
@@ -7,7 +10,7 @@
 <li><g-emoji class="g-emoji" alias="hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png">♥️</g-emoji> I like Anime and Gaming | <a href="https://steamcommunity.com/id/Minami-Xan/">Steam</a>  <g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">🎮</g-emoji></li>
 </ul>
 <ul>
-<h3> My tools for war: </h3>
+<h2> My tools for war: </h2>
 <p><b>Programming Languages</b><br>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" style="max-width:100%;"></a>
