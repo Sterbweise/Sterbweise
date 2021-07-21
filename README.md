@@ -4,7 +4,7 @@
 <p>I'm <a href="" rel="nofollow">Minami Xan</a>, a student in Cybersecurity.</p>
 
 <ul>
-<li>:computer: I’m currently working on differents project <i> (Dedicated Server, Css Themes Modifier, Hash Solver, etc..)</i>.</li>
+<li>:computer: I’m currently working on differents project <i> (Dedicated Server, Css Themes Modifier, Math Solver, etc..)</i>.</li>
 <li>:busts_in_silhouette:I’m looking to collaborate on anything. I'm always interested in starting a new project.</li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything on <a href="Killian#2101">Discord</a></li>
 <li><g-emoji class="g-emoji" alias="hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png">♥️</g-emoji> I like Anime and Gaming | <a href="https://steamcommunity.com/id/Minami-Xan/">Steam</a>  <g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">🎮</g-emoji></li>
