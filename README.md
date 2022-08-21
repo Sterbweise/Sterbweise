@@ -43,5 +43,6 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
     &nbsp;&nbsp;
     <a href="https://github.com/Minami-xan/T6Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T6Server&theme=onedark&border_color=614f4b" style="max-width: 100%"; align="middle"></a>
 </div>
+<br>
 
-+ <a href="http://cod.minamiserver.xyz/" target="_blank" rel="noopener">⚛️ **Plutonium Game Server** ⚛️</a>
+<h3 dir="auto" align="center"><a href="http://cod.minamiserver.xyz/" target="_blank" rel="noopener">⚛️ **Plutonium Game Server** ⚛️</a><h3>
