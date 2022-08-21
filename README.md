@@ -45,4 +45,4 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 </div>
 <br>
 
-<h3 dir="auto" align="center"><a href="http://cod.minamiserver.xyz/" target="_blank" rel="noopener">⚛️ **Plutonium Game Server** ⚛️</a><h3>
+<h3 dir="auto" align="center"><a href="http://cod.minamiserver.xyz/" target="_blank" rel="noopener">⚛️ Plutonium Game Server ⚛️</a><h3>
