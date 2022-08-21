@@ -15,7 +15,7 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 <div style="width:100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=Minami-xan&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true">
     &nbsp;&nbsp;
-    <img style="float:right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-xan&layout=default&theme=onedark&border_color=614f4b&langs_count=5">
+    <img style="padding:1.5%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-xan&layout=default&theme=onedark&border_color=614f4b&langs_count=5">
 </div>
 
 
@@ -30,9 +30,9 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 ## Plutonium
 📌 If you come from my **Plutonium** post, you can find all the information here :
 <p>
-    <a href="https://github.com/Minami-xan/T5Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T5Server&theme=onedark&border_color=614f4b" style="width:50%"></a>
+    <a href="https://github.com/Minami-xan/T5Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T5Server&theme=onedark&border_color=614f4b" style="width:45%"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/Minami-xan/T6Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T6Server&theme=onedark&border_color=614f4b" style="width:50%"></a>
+    <a href="https://github.com/Minami-xan/T6Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T6Server&theme=onedark&border_color=614f4b" style="width:45%"></a>
 </p>
 
 + <a href="http://cod.minamiserver.xyz/" target="_blank" rel="noopener">⚛️ **Plutonium Game Server** ⚛️</a>
