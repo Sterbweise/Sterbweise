@@ -5,7 +5,7 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 + 💻 I’m currently working on different project (*Dedicated Server, Css Themes Modifier, Math Solver, etc..*).
 + 👥 I’m looking to collaborate on anything. I'm always interested in starting a new project.
 + 💬 Ask me about anything on **Discord** or **Telegram**.
-
+<h2></h2>
 #### 🔸 Contact Me
 
 ![Discord](https://img.shields.io/badge/Killian%232101-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
