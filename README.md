@@ -6,7 +6,7 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 + 👥 I’m looking to collaborate on anything. I'm always interested in starting a new project.
 
 <hr>
-<center> <div>
+<div dir="auto" align="center">
 <h3> 🔸 Contact Me 🔸</h3>
 
 💬 Ask me about anything on <b>Discord</b> or <b>Telegram</b>.
