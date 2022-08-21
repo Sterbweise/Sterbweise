@@ -17,10 +17,10 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 
 </div>
 <hr>
-<div dir="auto" align="center" style="width:100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Minami-xan&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true">
+<div dir="auto" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Minami-xan&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true" style="max-width: 100%"; align="middle">
     &nbsp;&nbsp;
-    <img style="padding:1.5%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-xan&layout=default&theme=onedark&border_color=614f4b&langs_count=5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-xan&layout=default&theme=onedark&border_color=614f4b&langs_count=5" style="max-width: 100%"; align="middle">
 </div>
 <hr>
 <div dir="auto" align="center">
