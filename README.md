@@ -6,7 +6,7 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 + 👥 I’m looking to collaborate on anything. I'm always interested in starting a new project.
 
 <hr>
-<center><h4> 🔸 Contact Me 🔸</h4></center>
+<center><h3> 🔸 Contact Me 🔸</h3></center>
 <center>
 💬 Ask me about anything on <b>Discord</b> or <b>Telegram</b>.
 
@@ -22,7 +22,7 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
     <img style="padding:1.5%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-xan&layout=default&theme=onedark&border_color=614f4b&langs_count=5">
 </div>
 <hr>
-<center><h4> 🔹 Languages 🔹 </h4></center>
+<center><h3> 🔹 Languages 🔹 </h3></center>
 
 <center>
 
