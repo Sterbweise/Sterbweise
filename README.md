@@ -14,10 +14,10 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user556612)
 
-<p vertical-align="top">
-    <img src="https://github-readme-stats.vercel.app/api?username=Minami-xan&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true" style="width:40%">
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Minami-xan&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-xan&layout=default&theme=onedark&border_color=614f4b&langs_count=5" style="width:28.7%">
+    <img vertical-align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-xan&layout=default&theme=onedark&border_color=614f4b&langs_count=5">
 </p>
 
 
@@ -36,10 +36,10 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 
 ## Plutonium
 📌 If you come from my **Plutonium** post, you can find all the information here :
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T5Server&theme=onedark&border_color=614f4b)](https://github.com/Minami-xan/T5Server)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T6Server&theme=onedark&border_color=614f4b)](https://github.com/Minami-xan/T6Server)
-
+<p>
+    <img href="https://github.com/Minami-xan/T5Server" src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T5Server&theme=onedark&border_color=614f4b" style="width:30%">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img href="https://github.com/Minami-xan/T6Server" src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T6Server&theme=onedark&border_color=614f4b" style="width:30%">
+</p>
 
 + <a href="http://cod.minamiserver.xyz/" target="_blank" rel="noopener">⚛️ **Plutonium Game Server** ⚛️</a>
