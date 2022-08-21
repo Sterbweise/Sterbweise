@@ -38,10 +38,10 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 
 ## Plutonium
 📌 If you come from my **Plutonium** post, you can find all the information here :
-<p>
-    <a href="https://github.com/Minami-xan/T5Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T5Server&theme=onedark&border_color=614f4b" style="width:45%"></a>
+<div dir="auto" align="center">
+    <a href="https://github.com/Minami-xan/T5Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T5Server&theme=onedark&border_color=614f4b" style="max-width: 100%"; align="middle"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/Minami-xan/T6Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T6Server&theme=onedark&border_color=614f4b" style="width:45%"></a>
-</p>
+    <a href="https://github.com/Minami-xan/T6Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T6Server&theme=onedark&border_color=614f4b" style="max-width: 100%"; align="middle"></a>
+</div>
 
 + <a href="http://cod.minamiserver.xyz/" target="_blank" rel="noopener">⚛️ **Plutonium Game Server** ⚛️</a>
