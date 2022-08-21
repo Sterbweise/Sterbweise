@@ -6,15 +6,16 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 + 👥 I’m looking to collaborate on anything. I'm always interested in starting a new project.
 
 <hr>
-<center><h3> 🔸 Contact Me 🔸</h3></center>
-<center>
+<center> <div>
+<h3> 🔸 Contact Me 🔸</h3>
+
 💬 Ask me about anything on <b>Discord</b> or <b>Telegram</b>.
 
 ![Discord](https://img.shields.io/badge/Killian%232101-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCRWfp6bi0-wlhaRe2YQ2dwQ)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user556612)
 
-</center>
+</div></center>
 <hr>
 <div style="width:100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=Minami-xan&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true">
