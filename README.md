@@ -18,9 +18,9 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 </div>
 <hr>
 <div dir="auto" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Minami-xan&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true" style="max-width: 100%"; align="middle">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sterbweise&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true" style="max-width: 100%"; align="middle">
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minami-xan&layout=default&theme=onedark&border_color=614f4b&langs_count=4" style="max-width: 100%"; align="middle">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sterbweise&layout=default&theme=onedark&border_color=614f4b&langs_count=4" style="max-width: 100%"; align="middle">
 </div>
 <hr>
 <div dir="auto" align="center">
@@ -39,9 +39,9 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 ## Plutonium
 📌 If you come from my **Plutonium** post, you can find all the information here :
 <div dir="auto" align="center">
-    <a href="https://github.com/Minami-xan/T5Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T5Server&theme=onedark&border_color=614f4b" style="max-width: 100%"; align="middle"></a>
+    <a href="https://github.com/Sterbweise/T5Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterbweise&repo=T5Server&theme=onedark&border_color=614f4b" style="max-width: 100%"; align="middle"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/Minami-xan/T6Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Minami-xan&repo=T6Server&theme=onedark&border_color=614f4b" style="max-width: 100%"; align="middle"></a>
+    <a href="https://github.com/Sterbweise/T6Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterbweise&repo=T6Server&theme=onedark&border_color=614f4b" style="max-width: 100%"; align="middle"></a>
 </div>
 <br>
 
