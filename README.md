@@ -1,6 +1,6 @@
 # Hi Everyone 👋
 ## About Me
-I introduce my self, i'm **Sterbweise**, student in computer science.
+I introduce my self, i'm **Killian**, student in computer science.
 
 + 💻 I’m currently working on different project (*Dedicated Server, Css Themes Modifier, Math Solver, etc..*).
 + 👥 I’m looking to collaborate on anything. I'm always interested in starting a new project.
