@@ -39,9 +39,9 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 ## Plutonium
 📌 If you come from my **Plutonium** post, you can find all the information here :
 <div dir="auto" align="center">
-    <a href="https://github.com/Sterbweise/T5Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterbweise&repo=T5Server&theme=onedark&border_color=614f4b" style="height: 150px";></a>
+    <a href="https://github.com/Sterbweise/T5Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterbweise&repo=T5Server&theme=onedark&border_color=614f4b" style="height: 140px";></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/Sterbweise/T6Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterbweise&repo=T6Server&theme=onedark&border_color=614f4b" style="height: 150px";></a>
+    <a href="https://github.com/Sterbweise/T6Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterbweise&repo=T6Server&theme=onedark&border_color=614f4b" style="height: 140px";></a>
 </div>
 <br>
 
@@ -49,5 +49,5 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 ## Codingame
 📌 Here is all my solved puzzles on **Codingame** : <a href="https://www.codingame.com/profile/b2ad07e79ce1bd6e95eb7f54a7cc4b8b8661204"> My Profile </a>
 <div dir="auto" align="center">
-    <a href="https://github.com/Sterbweise/Codingame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterbweise&repo=Codingame&theme=onedark&border_color=614f4b" style="height: 150px";></a>
+    <a href="https://github.com/Sterbweise/Codingame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sterbweise&repo=Codingame&theme=onedark&border_color=614f4b" style="height: 130px";></a>
 </div>
