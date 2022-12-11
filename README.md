@@ -18,9 +18,9 @@ I introduce my self, i'm **Sterbweise**, student in computer science.
 </div>
 <hr>
 <div dir="auto" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sterbweise&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true" style="height: 250px"; align="middle">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sterbweise&show_icons=true&theme=onedark&border_color=614f4b&custom_title=My%20GitHub%20Stats&include_all_commits=true" style="height: 200px"; align="middle">
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sterbweise&layout=default&theme=onedark&border_color=614f4b&langs_count=4" style="height: 250px"; align="middle">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sterbweise&layout=default&theme=onedark&border_color=614f4b&langs_count=4" style="height: 200px"; align="middle">
 </div>
 <hr>
 <div dir="auto" align="center">
