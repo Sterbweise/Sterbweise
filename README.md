@@ -10,7 +10,7 @@ I introduce my self, i'm **Killian**, worker in computer science.
 <div dir="auto" align="center" style="vertical-align: top">
 <h3> 🔸 Contact Me 🔸</h3>
 
-💬 Ask me about anything on <b>Discord</b> or <b>Telegram</b>.
+💬 Ask me about anything on <b>Discord</b> or <b>Mail</b>.
 
 ![Discord](https://img.shields.io/badge/Killian%232101-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCRWfp6bi0-wlhaRe2YQ2dwQ)
