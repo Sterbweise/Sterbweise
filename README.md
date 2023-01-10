@@ -14,7 +14,6 @@ I introduce my self, i'm **Killian**, worker in computer science.
 
 ![Discord](https://img.shields.io/badge/Killian%232101-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCRWfp6bi0-wlhaRe2YQ2dwQ)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user556612)
 [![Mail](https://img.shields.io/badge/Mail-2C2C2C?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact@sterberise.dev)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
