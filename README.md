@@ -12,7 +12,7 @@ I introduce my self, i'm **Killian**, worker in computer science.
 
 💬 Ask me about anything on <b>Discord</b> or <b>Mail</b>.
 
-![Discord](https://img.shields.io/badge/Killian%232101-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/sterbweise-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCRWfp6bi0-wlhaRe2YQ2dwQ)
 [![Mail](https://img.shields.io/badge/Mail-2C2C2C?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact@sterberise.dev)
 </div>
