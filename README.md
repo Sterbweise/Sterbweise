@@ -1,23 +1,13 @@
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; max-width: 60%;">
-    <h3>About me</h3>
-    <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-      <li>I'm <strong>Killian</strong>, Software Engineer and Financial Risk Manager.</li>
-      <li>I believe in <strong>Bitcoin</strong> and <strong>Blockchain Technology</strong>.</li>
-      <li>I'm always looking for new projects to work on.</li>
-      <li>Work with me: 
-        <a href="mailto:contact@sterbweise.com">Mail</a>, 
-        <a href="https://t.me/sterbweise">Telegram</a>, 
-        <a href="https://matrix.to/#/@sterbweise:matrix.org">Matrix</a>, 
-        <a href="https://x.com/sterbweise">Discord</a>, or 
-        <a href="https://www.linkedin.com/in/sterbweise/">LinkedIn</a>
-      </li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="/header.svg" alt="Metrics" style="max-width: 100%; height: auto;"/>
-  </div>
-</div>
+
+[<img align="right" width="400" alt="" src="/header.svg">](#)
+### About me
+- I'm **Killian**, Software Engineer and Financial Risk Manager.
+- I believe in **Bitcoin** and **Blockchain Technology**.
+- I'm always looking for new projects to work on.
+- Work with me: [Mail](mailto:contact@sterbweise.com), [Telegram](https://t.me/sterbweise), [Matrix](https://matrix.to/#/@sterbweise:matrix.org), [Discord](https://x.com/sterbweise), or [LinkedIn](https://www.linkedin.com/in/sterbweise/)
+
+
+<br>
 
 ### Technology Stack
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
@@ -40,12 +30,6 @@
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 ![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff&style=flat)
 ![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)
-
-
-
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <img src="/repositories.svg" alt="Languages" style="max-width: 100%; height: auto;"/>
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sterbweise&icon=0&color=12)](https://visitcount.itsvg.in)
