@@ -21,5 +21,6 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_colors: rainbow
           plugin_languages_skipped: lowlighter/metrics
-          plugin_introduction: yes
-          plugin_introduction_title: blablablablab
+          plugin_repositories: yes
+          plugin_repositories_featured: Sterbweise/T6Server
+          
