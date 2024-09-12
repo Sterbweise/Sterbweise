@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.55668949632744" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="195.55668949632744" y="0" width="112.73511195584497" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="308.2918014521724" y="0" width="87.0078788077393" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="395.2996802599117" y="0" width="30.54664787862048" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="425.8463281385322" y="0" width="24.84647326214474" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="450.69280140067696" y="0" width="4.231523657489548" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="454.92432505816646" y="0" width="3.4089068446849646" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="458.3332319028515" y="0" width="1.6667680971485552" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.5833204290635" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="178.5833204290635" y="0" width="100.78497022252542" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="279.3682906515889" y="0" width="77.78487396364763" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="357.1531646152365" y="0" width="46.494963149590475" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="403.648127764827" y="0" width="27.308643628708584" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="430.9567713935356" y="0" width="22.212698638564657" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="453.16947003210026" y="0" width="3.782973897103445" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="456.9524439292037" y="0" width="3.047556070796312" height="8" fill="#162221"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -53,31 +53,31 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#008000" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Rust
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#0000ff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        PowerShell
+                        Rust
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#4b0082" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Dockerfile
+                        PowerShell
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ee82ee" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        C++
+                        Dockerfile
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#162221" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        JavaScript
+                        C++
                     </div>
                 </div>
             </section>
