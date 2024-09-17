@@ -32,4 +32,4 @@
 ![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sterbweise&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sterbweise&icon=0&color=12)](https://visitcount.itsvg.in) [<img align="right" height="20" alt="" src="https://img.shields.io/badge/-CodinGame-ffd200.svg?logo=yandex&style=for-the-badge">](https://www.codingame.com/profile/b2ad07e79ce1bd6e95eb7f54a7cc4b8b8661204)
