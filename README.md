@@ -4,7 +4,7 @@
 - I'm **Killian**, Software Engineer and Financial Risk Manager.
 - I believe in **Bitcoin** and **Blockchain Technology**.
 - I'm always looking for new projects to work on.
-- Work with me: [Mail](mailto:contact@sterbweise.com), [Telegram](https://t.me/sterbweise), [Matrix](https://matrix.to/#/@sterbweise:matrix.org), [Discord](https://x.com/sterbweise), or [LinkedIn](https://www.linkedin.com/in/sterbweise/)
+- Work with me: [Mail](mailto:contact@sterbweise.com), [Telegram](https://t.me/SG991) or [Discord](https://discordapp.com/users/sterbweise/)
 
 
 <br>
