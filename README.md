@@ -1,7 +1,7 @@
 
 [<img align="right" width="400" alt="" src="/header.svg">](#)
 ### About me
-- I'm **Killian**, Software Engineer and Financial Risk Manager.
+- I'm **Killian**, Software Engineer and Data Analyst.
 - I believe in **Bitcoin** and **Blockchain Technology**.
 - I'm always looking for new projects to work on.
 - Work with me: [Mail](mailto:contact@sterbweise.com), [Telegram](https://t.me/SG991) or [Discord](https://discordapp.com/users/sterbweise/)
