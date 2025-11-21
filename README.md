@@ -14,16 +14,11 @@
 
 *Beyond coding, I’m passionate about finance, problem‑solving, new technologies, and exploring anything that sparks curiosity.*
 
-|   |  |
-|---|---|
-| *PGDip Financial Engineering and Risk Management* | *2025* |
-|*PGCert Full-Stack Software Engineering* | *2023* |
-| *B.S. Computer Science (Statistics & Business Intelligence)* | *2022* |
-
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/killian-chandeze)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2D3748?logo=prisma&logoColor=white)](https://kchndz.dev)
 
 
+</br>
 
 ---
 [![pgp](https://img.shields.io/badge/pgp-9ecf3f834d1a724a4edaf6e50391e506-313131?style=flat&labelColor=545454&color=313131)](https://github.com/sterbweise.gpg)
