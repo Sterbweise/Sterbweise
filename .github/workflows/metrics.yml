@@ -33,14 +33,3 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_colors: rainbow
           plugin_languages_skipped: lowlighter/metrics
-
-      - name: Repositories
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: repositories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_featured: Sterbweise/T6Server, Sterbweise/plutonium-key-generator, Sterbweise/winget-update
-          
