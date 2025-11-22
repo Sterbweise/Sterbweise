@@ -17,7 +17,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/killian-chandeze)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2D3748?logo=prisma&logoColor=white)](https://kchndz.dev)
 [![Upwork](https://img.shields.io/badge/Upwork-fff?logo=upwork&logoColor=000)](https://www.upwork.com/freelancers/~01a9b8578fe0c1514d)
-[![Status](https://img.shields.io/badge/Open%20for%20work-%16db00.svg?label=S/A&labelColor=545454&)](#)
+[![Status](https://img.shields.io/badge/Open%20to%20work-%16db00.svg?label=S/A&labelColor=545454&)](#)
 
 
 [![Tools](https://img.shields.io/badge/Tools%20:-000020)](#)
