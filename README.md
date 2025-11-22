@@ -1,7 +1,7 @@
 
 [<img align="right" width="400" alt="" src="/github-metrics.svg">](#)
 ### About me
-#### Hi, I'm Killian, Software Engineer specialize in C# / .NET
+#### Hi, I'm Killian, a Software Engineer specializing in C#/.NET
 - ⚙️ I use daily: `.cs`, `.ts`, `.rs`, `.sh`.
 - 🌍 I'm mostly active within the **Dotnet Community**.
 - <img src="monero.svg" height="15" alt="Monero"/> I believe in **Monero** and **Blockchain Technology**.
