@@ -3,7 +3,7 @@
 ### About me
 #### Hi, I'm Killian, Software Engineer specialize in C# / .NET
 - ⚙️ I use daily: `.cs`, `.ts`, `.rs`, `.sh`.
-- 🌍 I'm mostly active within the **Dotnet Community**
+- 🌍 I'm mostly active within the **Dotnet Community**.
 - <img src="monero.svg" height="15" alt="Monero"/> I believe in **Monero** and **Blockchain Technology**.
 - 💬 `ping` me about **software engineering**, **dotnet**, **algorithms**, **gameservers** or **crypto**.
   
